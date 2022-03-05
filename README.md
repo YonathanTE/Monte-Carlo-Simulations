@@ -14,14 +14,6 @@ The second tool will be a retirement planning tool that will use the Alpaca API 
 
 ---
 
-### Files
-
-* [Personal Finance Planner starter code](Starter_Code/financial-planner.ipynb)
-
-* [MCForecastTools toolkit](Starter_Code/MCForecastTools.py)
-
----
-
 ### Resources
 
 This homework will utilize two APIs:
